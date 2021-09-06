@@ -1,5 +1,11 @@
 # @theguild/components
 
+## 1.5.0
+
+### Minor Changes
+
+- a328391: Added optional titleDescription prop to FeatureList component.
+
 ## 1.4.8
 
 ### Patch Changes
